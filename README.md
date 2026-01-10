@@ -1,4 +1,4 @@
-# Olá, eu sou o Jean! 👋
+# Olá, eu sou o Jean! 
 
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou focado em construir uma base sólida em programação.
 
