@@ -25,7 +25,7 @@ Curioso por tecnologia, Linux e programação.
 ## 🐧 Linux
 
 <p align="center">
-<img src="(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftenor.com%2Fview%2Flinux-penguin-cute-gif-6104851544980626621&ved=0CBUQjRxqFwoTCOCSi5O7nZMDFQAAAAAdAAAAABBS&opi=89978449)" width="220">
+<img src="[(https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftenor.com%2Fview%2Flinux-penguin-cute-gif-6104851544980626621&ved=0CBUQjRxqFwoTCOCSi5O7nZMDFQAAAAAdAAAAABBS&opi=89978449)" width="220](https://media.tenor.com/Ry_PKIggWaAAAAAM/penguin-jumping.gif)">
 </p>
 
 ---
