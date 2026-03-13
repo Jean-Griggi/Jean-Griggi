@@ -1,20 +1,19 @@
-# Olá, eu sou o Jean! 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jean%20Soares&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou focado em construir uma base sólida em programação.
+# Jean Soares
 
-### 🚀 Sobre mim
-- 🎓 Estudando na UniSenai (antiga Fatec Senai).
-- 💻 No momento, estou aprofundando meus conhecimentos em **Linguagem C**.
-- 🎯 Objetivo: Conquistar meu primeiro estágio para aplicar meus conhecimentos em projetos reais e aprender com o mercado.
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
-### 🛠️ Tecnologias e Ferramentas
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Tecnologias
 
-### 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/jean-soares-griggi-158a03395/
-- **E-mail:** Jeangriggis0@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,git,github,mysql,vscode" />
+</p>
 
----
-"O aprendizado é um processo contínuo."
+## GitHub Stats
+
+![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
