@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="./assets/akuta2.png" width="100%">
+<img src="./assets/akuta3.png" width="90%">
 
 
 <br>
 
-> **made from garbage.**
->
-> **feito do caos.**
->
-> **ゴミから生まれた。**
+ **made from garbage.**
+
+ **ゴミから生まれた。**
 
 </div>
 
