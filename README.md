@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🗑️ AKUTA
+#  AKUTA
 
 ### ゴミ • TRASH • CODE • CHAOS
 
-<img src="https://media1.tenor.com/m/Lq1-GzhwgrUAAAAC/gachiakuta-manga.gif" width="100%">
+<img src="./assets/Eyes.gif" width="75%">
 
 <br>
 
@@ -71,7 +71,7 @@ Both outcomes are acceptable.
 
 ## 🗑️ CURRENTLY DIGGING THROUGH THE TRASH
 
-<img src="https://media1.tenor.com/m/ECPAYqDHGt8AAAAd/boom-bap-instrumental.gif" width="60%">
+<img src="./assets/gachiakuta.gif" width="60%">
 
 </div>
 
@@ -98,8 +98,8 @@ $ continue?
 ## 📊 SYSTEM ACTIVITY
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jean-Griggi&show_icons=true&theme=transparent&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Griggi&layout=compact&theme=transparent&hide_border=true">
+<img height="180em" src="">
+<img height="180em" src="">
 </div>
 
 ---
@@ -123,7 +123,7 @@ $ continue?
 
 <div align="center">
 
-<img src="">
+<img src="./assets/Smoke.gif">
 
 ### ゴミは終わりじゃない。
 
