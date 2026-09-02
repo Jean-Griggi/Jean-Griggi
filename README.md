@@ -98,8 +98,7 @@ $ continue?
 ## 📊 SYSTEM ACTIVITY
 
 <div align="center">
-<img height="180em" src="">
-<img height="180em" src="">
+<img height="180em" src="./assets/Soul.jpg">
 </div>
 
 ---
