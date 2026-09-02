@@ -1,10 +1,7 @@
 <div align="center">
 
-#  AKUTA
+<img src="./assets/akuta2.png" width="100%">
 
-### ゴミ • TRASH • CODE • CHAOS
-
-<img src="./assets/Eyes.gif" width="75%">
 
 <br>
 
@@ -71,7 +68,7 @@ Both outcomes are acceptable.
 
 ## 🗑️ CURRENTLY DIGGING THROUGH THE TRASH
 
-<img src="./assets/gachiakuta.gif" width="60%">
+<img src="./assets/Smoke.gif" width="50%">
 
 </div>
 
@@ -122,7 +119,7 @@ $ continue?
 
 <div align="center">
 
-<img src="./assets/Smoke.gif">
+<img src="./assets/Eyes.gif" width="75%">
 
 ### ゴミは終わりじゃない。
 
